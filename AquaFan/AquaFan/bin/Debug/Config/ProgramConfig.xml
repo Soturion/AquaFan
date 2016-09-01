@@ -1,0 +1,10 @@
+<ProgramConfig identifier="">
+  <CommandLineConfig>
+    <AquaComputerCmdPath value="C:\Program Files\aquasuite\AquaComputerCmd.exe" />
+    <DeviceSerial value="31241-10718" />
+  </CommandLineConfig>
+  <Language selectedLanguage="DE" />
+  <ChangeFanSpeedsByActiveProfile value="False" />
+  <ApplyActiveProfileAtProgramStart value="True" />
+  <StartMinimized value="True" />
+</ProgramConfig>

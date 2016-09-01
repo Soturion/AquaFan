@@ -1,0 +1,40 @@
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\bin\Debug\AquaFan.exe
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\bin\Debug\AquaFan.pdb
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.csprojResolveAssemblyReference.cache
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.Properties.Resources.resources
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.csproj.GenerateResource.Cache
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.exe
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.pdb
+c:\users\droephil.connect\documents\visual studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmConfiguration.resources
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.exe
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.pdb
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.csprojResolveAssemblyReference.cache
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmConfiguration.resources
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.Properties.Resources.resources
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.csproj.GenerateResource.Cache
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\bin\Debug\AquaFan.exe
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\bin\Debug\AquaFan.pdb
+C:\Users\Eispala\Documents\Visual Studio 2015\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmMain.resources
+C:\Users\droephil.CONNECT\Documents\Visual Studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmMain.resources
+Z:\home\pi\projects\AquaFan\AquaFan\obj\Debug\AquaFan.exe
+Z:\home\pi\projects\AquaFan\AquaFan\obj\Debug\AquaFan.pdb
+Z:\home\pi\projects\AquaFan\AquaFan\obj\Debug\AquaFan.csprojResolveAssemblyReference.cache
+Z:\home\pi\projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmMain.resources
+Z:\home\pi\projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmConfiguration.resources
+Z:\home\pi\projects\AquaFan\AquaFan\obj\Debug\AquaFan.Properties.Resources.resources
+Z:\home\pi\projects\AquaFan\AquaFan\obj\Debug\AquaFan.csproj.GenerateResource.Cache
+Z:\home\pi\projects\AquaFan\AquaFan\bin\Debug\AquaFan.exe
+Z:\home\pi\projects\AquaFan\AquaFan\bin\Debug\AquaFan.pdb
+C:\Users\acer\Desktop\AquaFan\AquaFan\obj\Debug\AquaFan.exe
+C:\Users\acer\Desktop\AquaFan\AquaFan\obj\Debug\AquaFan.pdb
+C:\Users\acer\Desktop\AquaFan\AquaFan\bin\Debug\AquaFan.exe
+C:\Users\acer\Desktop\AquaFan\AquaFan\bin\Debug\AquaFan.pdb
+C:\Users\acer\Desktop\AquaFan\AquaFan\obj\Debug\AquaFan.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\AquaFan\AquaFan\obj\Debug\AquaFan.frmMain.resources
+C:\Users\acer\Desktop\AquaFan\AquaFan\obj\Debug\AquaFan.frmConfiguration.resources
+C:\Users\acer\Desktop\AquaFan\AquaFan\obj\Debug\AquaFan.Properties.Resources.resources
+C:\Users\acer\Desktop\AquaFan\AquaFan\obj\Debug\AquaFan.csproj.GenerateResource.Cache
+C:\Users\Eispala\documents\visual studio 2015\Projects\aquaFan\AquaFan\obj\Debug\AquaFan.frmNewProfile.resources
+C:\Users\Eispala\documents\visual studio 2015\Projects\aquaFan\AquaFan\obj\Debug\AquaFan.frmChangeProfileName.resources
+C:\Users\droephil.CONNECT\Documents\Visual Studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmChangeProfileName.resources
+C:\Users\droephil.CONNECT\Documents\Visual Studio 2012\Projects\AquaFan\AquaFan\obj\Debug\AquaFan.frmNewProfile.resources
